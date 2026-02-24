@@ -19,19 +19,19 @@ I'm currently a Computer Science @ Texas A&M San Antonio and graduating this upc
 - 🔭 Interested in Web Development and building applications that everyone and anyone can enjoy
 - ⚡ If I'm not coding, I'm probably building Gunpla or out biking/rock climbing
 
-<img src="https://img.shields.io/badge/github-tryhard-purple?logo=github"/> <img src="https://img.shields.io/badge/tailwind-enjoyer-cyan?logo=tailwindcss"/> <img src="https://img.shields.io/badge/chess-lover-green?logo=chessdotcom"/> <img src="https://img.shields.io/badge/jira-superuser-blue?logo=jira"/> <img src="https://img.shields.io/badge/acm-member-yellow?logo=acm"/> <img src="https://img.shields.io/badge/videogame-passionate-orange?logo=playstation"/>
+<img src="https://img.shields.io/badge/github-tryhard-purple?logo=github"/> <img src="https://img.shields.io/badge/tailwind-enjoyer-cyan?logo=tailwindcss"/> <img src="https://img.shields.io/badge/chess-lover-green?logo=chessdotcom"/> <img src="https://img.shields.io/badge/jira-superuser-blue?logo=jira"/> <img src="https://img.shields.io/badge/acm-officer-yellow?logo=acm"/> <img src="https://img.shields.io/badge/videogame-passionate-orange?logo=playstation"/>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,figma,kotlin,swift,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,figma,kotlin,swift"/>
   </a>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,php,mysql,supabase"/>    
+    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,php,mysql,supabase"/>    
   </a>
 </p>
 
