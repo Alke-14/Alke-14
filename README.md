@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a Computer Science @ Texas A&M San Antonio and graduating this upcoming Fall 2026. 
+I'm currently a Computer Science Senior student @ Texas A&M San Antonio and graduating this upcoming Fall 2026. 
 - 🌱 Currently learning on IOS Mobile App Development and Algorithms
 - 🔭 Interested in Web Development and building applications that everyone and anyone can enjoy
 - ⚡ If I'm not coding, I'm probably building Gunpla or out biking/rock climbing
@@ -38,6 +38,6 @@ I'm currently a Computer Science @ Texas A&M San Antonio and graduating this upc
 <h3 align="center">Other</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,git,latex,vscode"/>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,git,latex,vscode,ubuntu"/>
   </a>
 </p>
