@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 I'm currently a Computer Science Senior student @ Texas A&M San Antonio and graduating this upcoming Fall 2026. 
-- 🌱 Currently learning on IOS Mobile App Development and Algorithms
+- 🌱 Currently teaching myself Linux and Backend Development through Boot.dev 
 - 🔭 Interested in Web Development and building applications that everyone and anyone can enjoy
 - ⚡ If I'm not coding, I'm probably building Gunpla or out biking/rock climbing
 
@@ -39,5 +39,13 @@ I'm currently a Computer Science Senior student @ Texas A&M San Antonio and grad
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,gitlab,git,latex,vscode,ubuntu"/>
+  </a>
+</p>
+
+<h3 align="center">Offscreen Grinding</h3>
+
+<p align="center">
+  <a href="https://www.boot.dev/certificates/9011a33e-2eb0-42b7-bd9d-b17513f29836">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9011a33e-2eb0-42b7-bd9d-b17513f29836.jpeg?v=1786046842" alt="Boot.dev Build a BookBot in Python certificate" />
   </a>
 </p>
